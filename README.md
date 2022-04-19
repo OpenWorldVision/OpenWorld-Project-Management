@@ -2,6 +2,13 @@
 
 This repository is used for project management for various initiatives affecting the OpenWorld . The main use of this repository is for the All meeting & project management 
 
+## Tasks Planning & Tracking
+
+- All tasks are planning on https://github.com/OpenWorldVision/OW_PM/projects
+- After planning, certain tasks will be move into Issues to track
+- Bug/Issues will be tracked at https://github.com/OpenWorldVision/OW_PM/issues, everyone can create new issues 
+
+
 ## Core  Meetings
 
 ### Purpose
